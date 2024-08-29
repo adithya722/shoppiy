@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "250858955962",
+    "project_id": "shopi-d940d",
+    "storage_bucket": "shopi-d940d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250858955962:android:65a4551f619d307761ce83",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwQOjz_nv546UioOFTHYwkZExsiwNCqYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
